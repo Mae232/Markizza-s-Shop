@@ -7,3 +7,15 @@
   =>  Template Author  : HTML Codex
 
   =>  Author Website   : https://htmlcodex.com
+
+  echo "# Markizza-s-Shop" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Mae232/Markizza-s-Shop.git
+git push -u origin main
+
+git remote add origin https://github.com/Mae232/Markizza-s-Shop.git
+git branch -M main
+git push -u origin main
